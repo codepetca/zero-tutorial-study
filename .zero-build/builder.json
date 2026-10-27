@@ -45,8 +45,8 @@
     },
     {
       "path": "src/sharing/authoring.js",
-      "sha256": "6135aa2ee1407dfb05a03c1d401128dd98a7e2425075801859109f4dc327f891",
-      "bytes": 32094
+      "sha256": "ad6b5ef3b2e573a3bb5eb37f2f04090c234d577b1cb43e80a63e82c87818cc5b",
+      "bytes": 32737
     },
     {
       "path": "src/sharing/configuration.js",
@@ -265,8 +265,8 @@
     },
     {
       "path": "src/web-export/notices/Zero-MIT.txt",
-      "sha256": "a5dd29be82a15cef2a75a71e73579c11b6789e8230fe4e499e989ff55bb4b5b5",
-      "bytes": 1064
+      "sha256": "a7c5bf5f4c37804435c8c763c4e7e7b08dca4b2af128f22e5a543cf8eee7d96f",
+      "bytes": 1069
     },
     {
       "path": "src/web-export/project.js",
@@ -314,5 +314,5 @@
       "bytes": 1796
     }
   ],
-  "closureSha256": "409b9e3559265c90b81e8e138a9c83a2c27ef0bf84daccff615bc8a580be96eb"
+  "closureSha256": "7d3d7a27446fe6ab4c6f5f5fd15f486c81d3eb5ba67fc703c2e0b9f9c36a5b3c"
 }
