@@ -30,7 +30,7 @@
     },
     {
       "path": "src/core-contract.js",
-      "sha256": "a260b144cd34165e752179605b0b15af1a9e3fdd6fffd6ab2167762ac6b8969d",
+      "sha256": "afe07942fdc5ce3a90ac1d8bb4d000eb5d141b4556a855f22eb3820c8c07c08f",
       "bytes": 6866
     },
     {
@@ -200,8 +200,8 @@
     },
     {
       "path": "src/web-export/compatibility/contract.json",
-      "sha256": "65363ae8ac07f6c217b51aa4a0726be65b9e3ba8364bf23a6460e2e57f5d46f6",
-      "bytes": 17952
+      "sha256": "ba599b785b14c285ff6fddbc0976eaf8221c16d298d39bd7943653ea379f035a",
+      "bytes": 17990
     },
     {
       "path": "src/web-export/compatibility/index.js",
@@ -314,5 +314,5 @@
       "bytes": 1796
     }
   ],
-  "closureSha256": "7d3d7a27446fe6ab4c6f5f5fd15f486c81d3eb5ba67fc703c2e0b9f9c36a5b3c"
+  "closureSha256": "05d46e1b71986b5c95f7fad38cfdcdd552d067027dd21c41d10a5bf757b32840"
 }

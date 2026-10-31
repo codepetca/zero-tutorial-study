@@ -10,7 +10,7 @@
   "sources": [
     {
       "path": "src/main/java/zero/Actor.java",
-      "sha256": "8ee940c7d877571ba80d2adb7323956207a8961e62b00e5742c84ee3b991a797"
+      "sha256": "6455d32b652900ef7ad7df897d9c20570441bbd9be4162a98afa113c3d56a7d4"
     },
     {
       "path": "src/main/java/zero/AnimationPlayback.java",
@@ -81,5 +81,5 @@
       "sha256": "b5b26ea3e0f64e6b5ceb8f225b9c89691a615fa213c13723d28b42f3bb983188"
     }
   ],
-  "sourceSha256": "36b8c374ad0dbbc243243ba70dccafc61c8aa6f07acde04ed2cad281e58b6a50"
+  "sourceSha256": "7f356f4a76aaa3b015ff8c69fc7615c784fd66d7293cc67e3e0ecba5dfa1b5e0"
 }
