@@ -269,6 +269,11 @@
       "bytes": 1157
     },
     {
+      "path": "src/web-export/notices/ZERO-LICENSE.txt",
+      "sha256": "fd45ea5242e7550a8ba127f1e602488f392d79f2475299be0aadb4f400719fa4",
+      "bytes": 5812
+    },
+    {
       "path": "src/web-export/notices/Zero-MIT.txt",
       "sha256": "a7c5bf5f4c37804435c8c763c4e7e7b08dca4b2af128f22e5a543cf8eee7d96f",
       "bytes": 1069
@@ -319,5 +324,5 @@
       "bytes": 1796
     }
   ],
-  "closureSha256": "d4f8f025f11c447215ac7feb23e4a9ef37b44eee79ee1a7f0221a6ee3b6d12ad"
+  "closureSha256": "9c8d9f6a9a5b11c1558fe65d4ad45ab1653035071a44e6477531f1ed312eb8ca"
 }
