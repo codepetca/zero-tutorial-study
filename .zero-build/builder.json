@@ -19,6 +19,11 @@
       "bytes": 228
     },
     {
+      "path": "notices/ZERO-LICENSE.txt",
+      "sha256": "fd45ea5242e7550a8ba127f1e602488f392d79f2475299be0aadb4f400719fa4",
+      "bytes": 5812
+    },
+    {
       "path": "run.cjs",
       "sha256": "e25eaae75cbfb8808590219c81b09b81ca102bcd3892fdfa51f7b0e8c8a16966",
       "bytes": 10067
@@ -319,5 +324,5 @@
       "bytes": 1796
     }
   ],
-  "closureSha256": "d4f8f025f11c447215ac7feb23e4a9ef37b44eee79ee1a7f0221a6ee3b6d12ad"
+  "closureSha256": "5fc86b86dd1e98a01cbfde8da5e22d780ece02c4463d4cdc13fe311eebd7cfd6"
 }
