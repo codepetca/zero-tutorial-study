@@ -10,8 +10,8 @@
     },
     {
       "path": "README.md",
-      "sha256": "1771dce1edfb6c3f8aeac88e95b721e207868fd9cd42ae0e936f4dac9ea276f6",
-      "bytes": 4012
+      "sha256": "f01a4057f33f4edd7691e680f2787828ae207749ad50bae6988cf17bb0401158",
+      "bytes": 3545
     },
     {
       "path": "media/sharing-config.json",
@@ -20,12 +20,12 @@
     },
     {
       "path": "run.cjs",
-      "sha256": "e25eaae75cbfb8808590219c81b09b81ca102bcd3892fdfa51f7b0e8c8a16966",
-      "bytes": 10067
+      "sha256": "362c7ddcd18d6c1999726f0ec0df60448f94ffb8aeac53b39909bd8594191ef1",
+      "bytes": 10358
     },
     {
       "path": "runtime-lock.json",
-      "sha256": "2c9399d333fe1b5e0645d9aea98abc3f4ea8ebf4b9660cb4fbe8aa44860577bb",
+      "sha256": "026744b75f8af74672fc0bbb4ee203afa88d49970cf429570590fbd18637d483",
       "bytes": 2620
     },
     {
@@ -324,5 +324,5 @@
       "bytes": 1796
     }
   ],
-  "closureSha256": "9c8d9f6a9a5b11c1558fe65d4ad45ab1653035071a44e6477531f1ed312eb8ca"
+  "closureSha256": "d93c2ad1273ed55f7cba16b8153a1779d9eb87afa88e8328860d7afd5c0061ab"
 }
